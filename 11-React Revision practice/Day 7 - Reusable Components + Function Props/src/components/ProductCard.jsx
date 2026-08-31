@@ -39,7 +39,7 @@ function ProductCard({ onBuy ,name}) {
   return (
     <div>
       <button onClick={() => onBuy(name)}>
-      Buy Now
+      Delete
     </button>
     </div>
   )
